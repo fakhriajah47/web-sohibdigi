@@ -1,0 +1,12 @@
+export { Hero } from './Hero';
+export { RecentWork } from './RecentWork';
+export { Partners } from './Partners';
+export { About } from './About';
+export { WorkProcess } from './WorkProcess';
+export { Services } from './Services';
+export { Projects } from './Projects';
+export { Testimonials } from './Testimonials';
+export { Features } from './Features';
+export { Pricing } from './Pricing';
+export { FAQs } from './FAQs';
+export { BookNow } from './BookNow';
