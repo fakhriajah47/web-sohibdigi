@@ -43,14 +43,14 @@ export function Hero() {
                     </div>
 
                     {/* Decorative shapes */}
-                    <div className="hidden md:block absolute lg:right-[-25%] top-1/2 right-0 fadeInUp" data-delay="0.6">
+                    <div className="hidden md:block absolute lg:right-[-22%] top-1/2 right-0 fadeInUp" data-delay="0.6">
                         <img
                             src="/images/shapes/shape11.png"
                             alt="Shape"
                             className="lg:max-w-[250px] max-w-[50px]"
                         />
                     </div>
-                    <div className="hidden md:block absolute lg:-left-[30%] top-[10%] left-0 fadeInUp" data-delay="0.7">
+                    <div className="hidden md:block absolute lg:-left-[20%] top-[10%] left-0 fadeInUp" data-delay="0.7">
                         <img
                             src="/images/shapes/shape.png"
                             alt="Shape"

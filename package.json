@@ -16,6 +16,7 @@
     "gsap": "^3.12.5",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
+    "react-helmet-async": "^2.0.5",
     "react-router-dom": "^7.10.1",
     "remixicon-react": "^1.0.0",
     "yet-another-react-lightbox": "^3.21.0"
